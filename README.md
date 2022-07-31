@@ -11,7 +11,15 @@ A simple target shooting game made with Unity with the goal of improving aim in 
 Settings are controlled through sliders in the settings menu.
 
 ## Screenshots
+
+### Menu
 ![image](docs/images/1.png)
+
+### Gameplay
 ![image](docs/images/2.png)
+
+### Results
 ![image](docs/images/3.png)
+
+### Settings
 ![image](docs/images/4.png)
