@@ -1,5 +1,5 @@
 # fps-trainer-sim
-A simple target shooting game made in Unity with the goal of improving aim in first-person-shooter games.
+A simple target shooting game made in Unity with the goal of improving the player's aim in first-person-shooter games.
 
 ## Features
 ### Game modes:
